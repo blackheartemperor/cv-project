@@ -1,0 +1,26 @@
+body {
+  font-family:  Roboto, Arial, Helvetica, sans-serif;
+  border: solid 5px;
+  margin:auto;
+  width:700px;
+  padding: 13px 15px;
+
+ 
+}
+.section {
+  margin-bottom: 20px;
+}
+h2 {
+  font-weight: bold;
+  color: rgb(84, 84, 201)
+}
+.contact{
+  width: 200px;
+  line-height: 22px;
+}
+.profession{
+  color:rgb(84, 84, 201);
+}
+h3{
+  color: rgb(143, 50, 50);
+}
